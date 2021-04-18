@@ -1,4 +1,4 @@
-# www-2021-theme
+# theme2021
 
 ## Setting up Publii 
 - Download and install [Publii](https://getpublii.com/download/)
