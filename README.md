@@ -1,4 +1,6 @@
-# theme2021
+# MTAPubliiTheme
+
+Note that Publii doesn't seem to like dashes in its theme folder structure, so we used CamelCase.
 
 ## Setting up Publii 
 - Download and install [Publii](https://getpublii.com/download/)
