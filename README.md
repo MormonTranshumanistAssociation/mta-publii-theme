@@ -10,6 +10,7 @@
 - Open Publii for the first time
   - Specify a random set of characters as the site name
   - Specify a random set of characters as the author
+  - Click **Create web site**
   - Click the three dots in the top-right corner of the Publii interface and select "App settings"
   - For "Sites location" specify your Google drive location (usually "/Volumes/GoogleDrive/Shared drives/IT/www")
 
