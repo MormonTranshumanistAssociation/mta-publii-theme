@@ -14,7 +14,7 @@
   - For "Sites location" specify your Google drive location (usually "/Volumes/GoogleDrive/Shared drives/IT/www")
 
 ## Developing
-- Clone this project in ~/Documents/Publii/themes
+- Clone this project in `~/Documents/Publii/themes`
 - To see theme changes after modifying something:
   - Delete previous mta-publii-theme.zip file if present
   - Right-click on mta-publii-theme subfolder and select **Compress "mta-publii-theme"**
