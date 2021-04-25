@@ -8,8 +8,8 @@
   - Select the Google Drive icon in the menu bar and sign in to your MTA account (if you haven't already).
   - When Google Drive has finished syncing, you should now be able to find the MTA website content at `/Google Drive/Shared drives/IT/www` (macOS).
 - Open Publii for the first time
-  - Specify "Mormon Transhumanist Association" as the site name
-  - Specify "MTA Admin" as the author
+  - Specify a random set of characters as the site name
+  - Specify a random set of characters as the author
   - Click the three dots in the top-right corner of the Publii interface and select "App settings"
   - For "Sites location" specify your Google drive location (usually "/Volumes/GoogleDrive/Shared drives/IT/www")
 
