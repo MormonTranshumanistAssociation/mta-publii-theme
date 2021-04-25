@@ -22,5 +22,5 @@
   - Click **Install theme** and select the zip file
   - Click **Go back**
   - Click **Site settings**
-  - Install and use the new theme inside the drop-down select
+  - **Install and use** the new theme inside the drop-down select
   - Click **Save and preview**. Verify that your new changes are present.
