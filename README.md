@@ -12,3 +12,15 @@
   - Specify "MTA Admin" as the author
   - Click the three dots in the top-right corner of the Publii interface and select "App settings"
   - For "Sites location" specify your Google drive location (usually "/Volumes/GoogleDrive/Shared drives/IT/www")
+
+## Developing
+- Clone this project in ~/Documents/Publii/themes
+- To see theme changes after modifying something:
+  - Delete previous mta-publii-theme.zip file if present
+  - Right-click on mta-publii-theme subfolder and select **Compress "mta-publii-theme"**
+  - Click three dots in top-right corner of Publii app and select "Themes"
+  - Click **Install theme** and select the zip file
+  - Click **Go back**
+  - Click **Site settings**
+  - Install and use the new theme inside the drop-down select
+  - Click **Save and preview**. Verify that your new changes are present.
